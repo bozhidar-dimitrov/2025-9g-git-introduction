@@ -20,5 +20,7 @@ int main(void) {
 
   printStudent(student);
 
+  printf("Adding another line of code \n");
+
   return 0;
 }
