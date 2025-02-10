@@ -3,7 +3,7 @@
 int main(void) {
 
   printf("!Hello, World!\n");
-  printf("This is line from local machine\n");
+  printf("This is remotely added line\n");
 
   return 0;
 }
